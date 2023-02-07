@@ -80,3 +80,17 @@ Para acessar as informações completas, clique [aqui](https://www.doc.ic.ac.uk/
 
 #### --> [Soluções](https://github.com/ananorberto/FAC/tree/main/Formativa%201)
 #
+
+#
+### Formativa 1 - Fundamentos de assembly MIPS 1
+ㅤ
+* A - Maior Número [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/maior_numero_2.pdf)
+* B - Conta de Água [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/conta_agua.pdf)
+* C - Piramides [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/piramides1.pdf)
+
+* D - Vestibular [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/vestibular.pdf)
+
+* E - Bit de paridade [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/bitparidade-funcao.pdf)
+
+#### --> [Soluções](https://github.com/ananorberto/FAC/tree/main/Formativa%202)
+#
