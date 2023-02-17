@@ -82,7 +82,7 @@ Para acessar as informações completas, clique [aqui](https://www.doc.ic.ac.uk/
 #
 
 #
-### Formativa 1 - Fundamentos de assembly MIPS 1
+### Formativa 2 - Fundamentos de assembly MIPS 2
 ㅤ
 * A - Maior Número [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/maior_numero_2.pdf)
 * B - Conta de Água [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f2_2022_2/conta_agua.pdf)
@@ -94,3 +94,11 @@ Para acessar as informações completas, clique [aqui](https://www.doc.ic.ac.uk/
 
 #### --> [Soluções](https://github.com/ananorberto/FAC/tree/main/Formativa%202)
 #
+
+### Formativa 3 - Ponto flutuante
+ㅤ
+* A - Conversão de temperatura [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f3_2022_2/conversao-temperatura.pdf)
+* B - Média ponderada [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f3_2022_2/media-ponderada.pdf)
+* C - Preço consumidor [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f3_2022_2/preco_consumidor.pdf)
+
+#### --> [Soluções](https://github.com/ananorberto/FAC/tree/main/Formativa%203)
