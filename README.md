@@ -1,5 +1,7 @@
 # FAC 
 Repositório da matéria de Fundamentos e Arquitetura de Computadores (UnB - FGA)
+
+Matéria ministrada pelo professor  John L. Gardenghi
 #
 ## Tutorial de instalação Assembly (spim) - **Linux**
 1. Abra o terminal e execute o seguinte comando:
