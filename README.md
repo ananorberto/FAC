@@ -104,3 +104,10 @@ Para acessar as informações completas, clique [aqui](https://www.doc.ic.ac.uk/
 * C - Preço consumidor [[PDF]](https://moj.naquadah.com.br/contests/jl_fac_t01_f3_2022_2/preco_consumidor.pdf)
 
 #### --> [Soluções](https://github.com/ananorberto/FAC/tree/main/Formativa%203)
+
+
+
+
+#
+testeee
+#
