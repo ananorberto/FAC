@@ -106,8 +106,3 @@ Para acessar as informações completas, clique [aqui](https://www.doc.ic.ac.uk/
 #### --> [Soluções](https://github.com/ananorberto/FAC/tree/main/Formativa%203)
 
 
-
-
-#
-testeee
-#
